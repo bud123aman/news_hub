@@ -1,6 +1,6 @@
 # newsdekho
 
-A news Flutter project.
+A News Flutter App project.
 
 ## Getting Started
 
