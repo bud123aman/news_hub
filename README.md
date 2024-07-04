@@ -1,6 +1,6 @@
-# newdekho
+# newsdekho
 
-A new Flutter project.
+A news Flutter project.
 
 ## Getting Started
 
